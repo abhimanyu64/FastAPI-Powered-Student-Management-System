@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Student Database Project (Backend + Frontend)
 
 ## Requirements
@@ -37,3 +38,7 @@ python -m http.server 5500 --directory frontend
 Open http://127.0.0.1:5500 in your browser.
 
 The SQLite database file (`students.db`) is created automatically in the project root when the backend starts.
+=======
+# FastAPI-Powered-Student-Management-System
+A lightweight, full-stack student record and analytics platform built with FastAPI and SQLite. Designed for efficient academic data management, the system features a responsive web dashboard for real-time CRUD operations, automated CSV data ingestion via Pandas and NumPy, and integrated statistical insights for student performance tracking.
+>>>>>>> 68a28f729c06ac07bab5885d507845ecef7670a2
