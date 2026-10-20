@@ -1,101 +1,101 @@
-Student_ID,Name,Department,Maths,Science,English,Computer_Science,Attendance_Percentage
-101,Aarav Sharma,Computer Science,85,90,78,92,95
-102,Vivaan Verma,Information Technology,72,68,74,80,82
-103,Aditya Patel,Electronics,90,85,88,94,91
-104,Diya Gupta,Computer Science,60,55,65,70,75
-105,Kabir Singh,Mechanical,45,50,48,52,68
-106,Ananya Joshi,Civil,78,82,80,85,88
-107,Rohan Mehra,Information Technology,92,95,89,96,96
-108,Meera Iyer,Electronics,88,84,90,86,90
-109,Arjun Nair,Computer Science,35,42,40,45,60
-110,Sneha Kulkarni,Mechanical,70,75,72,78,84
-111,Tanvi Deshmukh,Civil,82,80,85,83,89
-112,Karan Malhotra,Computer Science,95,92,94,98,98
-113,Pooja Reddy,Information Technology,65,70,68,72,79
-114,Rahul Joshi,Electronics,50,48,55,60,70
-115,Neha Kapoor,Mechanical,88,85,91,89,92
-116,Amit Choudhury,Civil,74,70,72,76,83
-117,Siddharth Rao,Computer Science,81,85,79,88,87
-118,Priya Sen,Information Technology,91,89,93,90,94
-119,Vikram Joshi,Electronics,58,62,60,65,72
-120,Kavya Menon,Computer Science,84,88,86,91,90
-121,Rakesh Roy,Civil,62,65,60,68,76
-122,Pooja Sharma,Mechanical,75,78,70,82,85
-123,Sanjay Kumar,Electronics,80,83,85,88,90
-124,Ankit Verma,Computer Science,91,89,92,94,93
-125,Neha Singh,Information Technology,68,70,65,72,80
-126,Manish Gupta,Civil,55,58,52,60,70
-127,Swati Patel,Mechanical,82,80,85,86,88
-128,Deepak Sharma,Electronics,73,75,70,78,81
-129,Priyanka Das,Computer Science,89,91,88,93,92
-130,Alok Mishra,Information Technology,45,50,42,48,65
-131,Ritu Jain,Civil,79,82,80,85,87
-132,Vikas Yadav,Mechanical,66,60,68,72,78
-133,Sunita Rao,Electronics,84,87,82,89,91
-134,Abhishek Sen,Computer Science,94,96,92,98,97
-135,Divya Nair,Information Technology,71,74,69,76,83
-136,Harsh Vardhan,Civil,52,55,50,58,67
-137,Kritika Joshi,Mechanical,86,84,88,90,92
-138,Manoj Kumar,Electronics,63,65,60,69,75
-139,Preeti Ghosh,Computer Science,90,88,93,92,95
-140,Nikhil Menon,Information Technology,77,80,75,82,86
-141,Snehal Patil,Civil,69,72,68,74,80
-142,Tarun Sharma,Mechanical,83,85,81,88,89
-143,Geeta Pillai,Electronics,59,62,55,64,71
-144,Varun Kapoor,Computer Science,96,94,98,99,99
-145,Pankaj Jha,Information Technology,74,72,76,79,84
-146,Shweta Tiwari,Civil,61,64,59,66,74
-147,Mohit Agarwal,Mechanical,87,89,85,91,93
-148,Pooja Mehta,Electronics,68,70,65,73,79
-149,Nisha Roy,Computer Science,92,90,94,95,96
-150,Suresh Kumar,Information Technology,50,55,48,54,66
-151,Kunal Deshmukh,Civil,76,78,74,80,85
-152,Payal Sen,Mechanical,81,83,79,86,88
-153,Ashish Bansal,Electronics,85,82,88,87,90
-154,Ravina Patel,Computer Science,88,86,90,91,92
-155,Sachin Tendulkar,Information Technology,64,68,62,70,77
-156,Meenakshi Sundaram,Civil,70,73,69,75,82
-157,Naveen Kumar,Mechanical,79,81,77,84,87
-158,Bhavana Sharma,Electronics,72,74,70,78,83
-159,Akash Chopra,Computer Science,93,95,91,97,96
-160,Madhuri Dixit,Information Technology,67,70,66,72,79
-161,Yogesh Rao,Civil,56,59,53,61,72
-162,Shruti Haasan,Mechanical,84,82,86,89,91
-163,Rajesh Khanna,Electronics,62,65,60,68,75
-164,Vidya Balan,Computer Science,91,89,93,94,95
-165,Arun Govil,Information Technology,75,73,77,80,85
-166,Deepika Padukone,Civil,80,83,79,86,89
-167,Ranveer Singh,Mechanical,71,74,68,76,81
-168,Alia Bhatt,Electronics,89,87,92,90,93
-169,Ranbir Kapoor,Computer Science,94,92,95,98,97
-170,Priyanka Chopra,Information Technology,78,80,76,83,86
-171,Shahid Kapoor,Civil,65,68,62,70,78
-172,Kareena Kapoor,Mechanical,82,85,80,88,90
-173,Akshay Kumar,Electronics,74,76,72,79,84
-174,Katrina Kaif,Computer Science,87,85,89,91,92
-175,Hrithik Roshan,Information Technology,83,81,85,87,89
-176,Anushka Sharma,Civil,70,72,68,75,81
-177,Vicky Kaushal,Mechanical,86,88,84,90,92
-178,Kiara Advani,Electronics,76,79,73,82,86
-179,Sidharth Malhotra,Computer Science,90,88,92,94,95
-180,Disha Patani,Information Technology,69,71,67,74,80
-181,Tiger Shroff,Civil,58,61,55,63,73
-182,Shraddha Kapoor,Mechanical,81,79,83,85,88
-183,Kartik Aaryan,Electronics,73,75,71,78,83
-184, Kriti Sanon,Computer Science,92,90,94,96,96
-185,Ayushmann Khurrana,Information Technology,77,75,79,82,87
-186,Taapsee Pannu,Civil,66,69,64,72,79
-187,Rajkummar Rao,Mechanical,84,86,82,89,91
-188,Bhumi Pednekar,Electronics,75,77,73,80,85
-189,Varun Dhawan,Computer Science,88,86,90,92,93
-190,Janvi Kapoor,Information Technology,71,73,69,76,82
-191,Ishaan Khatter,Civil,60,63,58,66,75
-192,Sara Ali Khan,Mechanical,80,82,78,85,88
-193,Siddhant Chaturvedi,Electronics,72,74,70,77,83
-194,Ananya Panday,Computer Science,85,83,87,89,90
-195,Abhimanyu Dassani,Information Technology,68,70,66,73,79
-196,Radhika Madan,Civil,74,76,72,79,84
-197,Dulquer Salmaan,Mechanical,83,85,81,88,91
-198,Sobhita Dhulipala,Electronics,79,81,77,84,88
-199,Adarsh Gourav,Computer Science,91,89,93,95,96
-200,Mithila Palkar,Information Technology,76,78,74,81,86
+name,email,course,year
+Ankit Sharma,ankit.sharma@example.com,Computer Science,1
+Priya Das,priya.das@example.com,Information Technology,2
+Rahul Roy,rahul.roy@example.com,Electronics,3
+Sneha Patel,sneha.patel@example.com,Business Administration,1
+Arjun Kumar,arjun.kumar@example.com,Mechanical Engineering,4
+Neha Gupta,neha.gupta@example.com,Computer Science,2
+Vikram Singh,vikram.singh@example.com,Civil Engineering,3
+Pooja Nair,pooja.nair@example.com,Electronics,1
+Amit Verma,amit.verma@example.com,Information Technology,4
+Divya Menon,divya.menon@example.com,Business Administration,2
+Rohan Joshi,rohan.joshi@example.com,Computer Science,3
+Kavita Iyer,kavita.iyer@example.com,Mechanical Engineering,1
+Manish Tiwari,manish.tiwari@example.com,Civil Engineering,2
+Swati Rao,swati.rao@example.com,Electronics,4
+Abhishek Pillai,abhishek.pillai@example.com,Information Technology,3
+Tanvi Deshmukh,tanvi.deshmukh@example.com,Business Administration,1
+Karan Malhotra,karan.malhotra@example.com,Computer Science,4
+Megha Kulkarni,megha.kulkarni@example.com,Mechanical Engineering,2
+Siddharth Sen,siddharth.sen@example.com,Civil Engineering,1
+Ananya Chatterjee,ananya.chatterjee@example.com,Electronics,3
+Aditya Mukherjee,aditya.mukherjee@example.com,Information Technology,2
+Ritu Banerjee,ritu.banerjee@example.com,Business Administration,4
+Alok Ghosh,alok.ghosh@example.com,Computer Science,1
+Preeti Chakraborty,preeti.chakraborty@example.com,Mechanical Engineering,3
+Nikhil Bose,nikhil.bose@example.com,Civil Engineering,2
+Shreya Datta,shreya.datta@example.com,Electronics,4
+Varun Sengupta,varun.sengupta@example.com,Information Technology,1
+Deepika Roy,deepika.roy@example.com,Business Administration,3
+Tarun Das,tarun.das@example.com,Computer Science,2
+Nisha Paul,nisha.paul@example.com,Mechanical Engineering,4
+Sanjay Sen,sanjay.sen@example.com,Civil Engineering,3
+Priyanka Mitra,priyanka.mitra@example.com,Electronics,1
+Rajesh Bhattacharya,rajesh.bhattacharya@example.com,Information Technology,2
+Monika Mukherjee,monika.mukherjee@example.com,Business Administration,4
+Kunal Ganguly,kunal.ganguly@example.com,Computer Science,3
+Suman Chatterjee,suman.chatterjee@example.com,Mechanical Engineering,1
+Pallavi Ghosh,pallavi.ghosh@example.com,Civil Engineering,2
+Subhashish Roy,subhashish.roy@example.com,Electronics,4
+Moumita Das,moumita.das@example.com,Information Technology,3
+Debasish Paul,debasish.paul@example.com,Business Administration,1
+Payel Sen,payel.sen@example.com,Computer Science,4
+Sourav Mitra,sourav.mitra@example.com,Mechanical Engineering,2
+Rimpa Bhattacharya,rimpa.bhattacharya@example.com,Civil Engineering,1
+Avik Mukherjee,avik.mukherjee@example.com,Electronics,3
+Tumpa Ghosh,tumpa.ghosh@example.com,Information Technology,2
+Prosenjit Roy,prosenjit.roy@example.com,Business Administration,4
+Barnali Das,barnali.das@example.com,Computer Science,1
+Bappaditya Paul,bappaditya.paul@example.com,Mechanical Engineering,3
+Papiya Sen,papiya.sen@example.com,Civil Engineering,2
+Abhijit Mitra,abhijit.mitra@example.com,Electronics,4
+Tanmayee Bhattacharya,tanmayee.bhattacharya@example.com,Information Technology,1
+Joydeep Mukherjee,joydeep.mukherjee@example.com,Business Administration,3
+Madhumita Ghosh,madhumita.ghosh@example.com,Computer Science,2
+Sudipta Roy,sudipta.roy@example.com,Mechanical Engineering,4
+Chandana Das,chandana.das@example.com,Civil Engineering,3
+Partha Paul,partha.paul@example.com,Electronics,1
+Sampa Sen,sampa.sen@example.com,Information Technology,2
+Tapan Mitra,tapan.mitra@example.com,Business Administration,4
+Jharna Bhattacharya,jharna.bhattacharya@example.com,Computer Science,3
+Bikash Mukherjee,bikash.mukherjee@example.com,Mechanical Engineering,1
+Supriya Ghosh,supriya.ghosh@example.com,Civil Engineering,2
+Pradip Roy,pradip.roy@example.com,Electronics,4
+Gouri Das,gouri.das@example.com,Information Technology,3
+Dulal Paul,dulal.paul@example.com,Business Administration,1
+Archana Sen,archana.sen@example.com,Computer Science,4
+Shankar Mitra,shankar.mitra@example.com,Mechanical Engineering,2
+Bela Bhattacharya,bela.bhattacharya@example.com,Civil Engineering,1
+Ashok Mukherjee,ashok.mukherjee@example.com,Electronics,3
+Geeta Ghosh,geeta.ghosh@example.com,Information Technology,2
+Manoj Roy,manoj.roy@example.com,Business Administration,4
+Rekha Das,rekha.das@example.com,Computer Science,1
+Sunil Paul,sunil.paul@example.com,Mechanical Engineering,3
+Sunita Sen,sunita.sen@example.com,Civil Engineering,2
+Alok Mitra,alok.mitra@example.com,Electronics,4
+Anita Bhattacharya,anita.bhattacharya@example.com,Information Technology,1
+Suresh Mukherjee,suresh.mukherjee@example.com,Business Administration,3
+Asha Ghosh,asha.ghosh@example.com,Computer Science,2
+Ramesh Roy,ramesh.roy@example.com,Mechanical Engineering,4
+Usha Das,usha.das@example.com,Civil Engineering,3
+Dinesh Paul,dinesh.paul@example.com,Electronics,1
+Kiran Sen,kiran.sen@example.com,Information Technology,2
+Mahesh Mitra,mahesh.mitra@example.com,Business Administration,4
+Suman Bhattacharya,suman.bhattacharya@example.com,Computer Science,3
+Vinod Mukherjee,vinod.mukherjee@example.com,Mechanical Engineering,1
+Sita Ghosh,sita.ghosh@example.com,Civil Engineering,2
+Vijay Roy,vijay.roy@example.com,Electronics,4
+Rita Das,rita.das@example.com,Information Technology,3
+Prakash Paul,prakash.paul@example.com,Business Administration,1
+Sarita Sen,sarita.sen@example.com,Computer Science,4
+Ajay Mitra,ajay.mitra@example.com,Mechanical Engineering,2
+Meena Bhattacharya,meena.bhattacharya@example.com,Civil Engineering,1
+Naresh Mukherjee,naresh.mukherjee@example.com,Electronics,3
+Pushpa Ghosh,pushpa.ghosh@example.com,Information Technology,2
+Kamal Roy,kamal.roy@example.com,Business Administration,4
+Shanti Das,shanti.das@example.com,Computer Science,1
+Gopal Paul,gopal.paul@example.com,Mechanical Engineering,3
+Kusum Sen,kusum.sen@example.com,Civil Engineering,2
+Madhav Mitra,madhav.mitra@example.com,Electronics,4
+Radha Bhattacharya,radha.bhattacharya@example.com,Information Technology,1
+Govind Mukherjee,govind.mukherjee@example.com,Business Administration,3
